@@ -1,0 +1,41 @@
+Deck
+2 Narset, Parter of Veils (WAR) 61
+4 Absorb (RNA) 151
+4 Censor (AKR) 52
+4 Shark Typhoon (IKO) 67
+4 Cast Out (AKR) 9
+3 Baffling End (RIX) 1
+1 Search for Azcanta (XLN) 74
+4 Castle Ardenvale (ELD) 238
+3 Castle Vantress (ELD) 242
+5 Island (KLR) 290
+4 Wrath of God (AKR) 46
+1 Aether Gust (M20) 42
+1 Disdainful Stroke (GRN) 37
+2 Grafdigger's Cage (M20) 227
+4 Plains (KLR) 288
+4 Glacial Fortress (XLN) 255
+4 Irrigated Farmland (AKR) 304
+4 Hallowed Fountain (RNA) 251
+4 Teferi, Hero of Dominaria (DAR) 207
+2 Dovin's Veto (WAR) 193
+1 Essence Scatter (IKO) 49
+1 Seal Away (DAR) 31
+1 Giant Killer (ELD) 14
+4 Fae of Wishes (ELD) 44
+4 Brazen Borrower (ELD) 39
+4 Mirrormade (ELD) 55
+1 Raugrin Triome (IKO) 251
+1 Unknown Shores (THB) 249
+
+Sideboard
+2 Mythos of Illuna (IKO) 58
+2 Mass Manipulation (RNA) 42
+2 Kiora Bests the Sea God (THB) 52
+3 Covetous Urge (ELD) 207
+1 Ondu Inversion (ZNR) 30
+1 Cascading Cataracts (AKR) 285
+1 Cruel Reality (AKR) 98
+1 Rise of the Dark Realms (JMP) 271
+1 The Great Henge (ELD) 161
+1 Captive Audience (RNA) 160
