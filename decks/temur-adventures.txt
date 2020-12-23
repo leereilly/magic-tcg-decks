@@ -1,30 +1,40 @@
-4 Nissa, Who Shakes the World (WAR) 169
-4 Beanstalk Giant (ELD) 149
-4 Bonecrusher Giant (ELD) 115
-3 Brazen Borrower (ELD) 39
+Deck
+4 Edgewall Innkeeper (ELD) 151
 4 Fae of Wishes (ELD) 44
-4 Hydroid Krasis (RNA) 183
-2 Aether Gust (M20) 42
-4 Growth Spiral (RNA) 178
+4 Brazen Borrower (ELD) 39
+4 Bonecrusher Giant (ELD) 115
+4 Lovestruck Beast (ELD) 165
+4 Beanstalk Giant (ELD) 149
+3 Escape to the Wilds (ELD) 189
 4 Lucky Clover (ELD) 226
-4 Breeding Pool (RNA) 246
-1 Castle Vantress (ELD) 242
-4 Forest (ELD) 266
-2 Island (ELD) 254
 2 Mountain (ELD) 262
-4 Steam Vents (GRN) 257
-4 Stomping Ground (RNA) 259
-3 Temple of Epiphany (M20) 253
-3 Temple of Mystery (M20) 255
+3 Island (ELD) 254
+5 Forest (ELD) 266
+1 Temple of Epiphany (M20) 253
+1 Temple of Epiphany (M21) 252
+3 Temple of Abandon (THB) 244
+1 Temple of Mystery (M21) 254
+2 Temple of Mystery (M20) 255
+1 Thornwood Falls (IKO) 256
+1 Swiftwater Cliffs (M21) 251
+1 Swiftwater Cliffs (IKO) 255
+1 Thornwood Falls (M21) 257
+1 Ketria Triome (IKO) 250
+2 Castle Garenbrig (ELD) 240
+4 Witching Well (ELD) 74
+1 Marauding Blight-Priest (ZNR) 112
+1 Swamp (ELD) 261
+1 Command the Dreadhorde (WAR) 82
+1 Gonti, Lord of Luxury (JMP) 240
 
-1 Aether Gust (M20) 42
-1 Chandra, Awakened Inferno (M20) 127
-1 Disdainful Stroke (GRN) 37
-1 Escape to the Wilds (ELD) 189
-1 Expansion // Explosion (GRN) 224
-2 Flame Sweep (M20) 139
-1 Fling (ELD) 126
-2 Lava Coil (GRN) 108
+Sideboard
+1 Ugin, the Spirit Dragon (M21) 1
+1 Storm's Wrath (THB) 157
+3 Mirror March (RNA) 108
+1 The Great Henge (ELD) 161
+2 Unholy Indenture (M20) 119
+2 Domri's Ambush (WAR) 192
+1 Grim Tutor (M21) 103
+1 Exquisite Blood (JMP) 231
 1 Mass Manipulation (RNA) 42
-3 Mystical Dispute (ELD) 58
-1 Planewide Celebration (WAR) 172
+1 Rise of the Dark Realms (JMP) 271
