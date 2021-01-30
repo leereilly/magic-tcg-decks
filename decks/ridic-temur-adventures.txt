@@ -1,0 +1,45 @@
+Deck
+2 Temple of Mystery (M21) 254
+2 Uro, Titan of Nature's Wrath (THB) 229
+1 Ketria Triome (IKO) 250
+1 Temple of Epiphany (M21) 252
+2 Fabled Passage (ELD) 244
+4 Edgewall Innkeeper (ELD) 151
+4 Fae of Wishes (ELD) 44
+4 Lucky Clover (ELD) 226
+5 Island (KLR) 290
+4 Brazen Borrower (ELD) 39
+4 Bonecrusher Giant (ELD) 115
+4 Beanstalk Giant (ELD) 149
+4 Mountain (KLR) 298
+2 Escape to the Wilds (ELD) 189
+7 Forest (KLR) 300
+3 Lovestruck Beast (ELD) 165
+1 Temple of Abandon (THB) 244
+1 Nissa, Who Shakes the World (WAR) 169
+2 Mirrormade (ELD) 55
+2 Mythos of Illuna (IKO) 58
+2 Llanowar Elves (M19) 314
+2 Cultivate (M21) 177
+1 Castle Garenbrig (ELD) 240
+2 Castle Vantress (ELD) 242
+1 Ayara, First of Locthwain (ELD) 75
+1 Marauding Blight-Priest (ZNR) 112
+3 Swamp (AKR) 338
+1 Fountain of Renewal (M19) 235
+
+Sideboard
+1 Mirror March (RNA) 108
+1 Mythos of Illuna (IKO) 58
+2 Mirrormade (ELD) 55
+1 Helm of the Host (DAR) 217
+1 Mass Manipulation (RNA) 42
+1 Storm's Wrath (THB) 157
+1 Exquisite Blood (JMP) 231
+1 Bastion of Remembrance (IKO) 73
+1 Underworld Dreams (THB) 121
+1 Phyrexian Arena (8ED) 152
+1 Revenge of Ravens (ELD) 104
+1 Ill-Gotten Inheritance (RNA) 77
+1 Fountain of Renewal (M19) 235
+1 Cavalcade of Calamity (RNA) 95
