@@ -1,0 +1,20 @@
+Deck
+2 Mnemonic Betrayal (GRN) 189
+4 Thief of Sanity (GRN) 205
+4 Thought Erasure (GRN) 206
+4 Dismal Backwater (M20) 245
+4 Watery Grave (GRN) 259
+4 Bond of Revival (WAR) 80
+1 Narset, Parter of Veils (WAR) 61
+4 Agent of Treachery (M20) 43
+6 Island (ELD) 254
+8 Swamp (ELD) 258
+4 Atris, Oracle of Half-Truths (THB) 209
+4 Murderous Rider (ELD) 97
+2 Rankle, Master of Pranks (ELD) 101
+1 Temple of Deceit (THB) 245
+3 Covetous Urge (ELD) 207
+1 Castle Locthwain (ELD) 241
+1 Castle Vantress (ELD) 242
+2 Vantress Gargoyle (ELD) 71
+1 Opt (ELD) 59
