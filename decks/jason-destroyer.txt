@@ -1,0 +1,42 @@
+Deck
+4 Edgewall Innkeeper (ELD) 151
+4 Fae of Wishes (ELD) 44
+4 Brazen Borrower (ELD) 39
+4 Bonecrusher Giant (ELD) 115
+4 Lovestruck Beast (ELD) 165
+4 Beanstalk Giant (ELD) 149
+3 Escape to the Wilds (ELD) 189
+4 Lucky Clover (ELD) 226
+3 Mountain (ELD) 262
+5 Island (ELD) 254
+7 Forest (ELD) 266
+2 Temple of Epiphany (M20) 253
+2 Steam Vents (GRN) 257
+2 Temple of Abandon (THB) 244
+2 Stomping Ground (RNA) 259
+2 Temple of Mystery (M20) 255
+2 The World Tree (KHM) 275
+4 Mirrormade (ELD) 55
+1 Plains (XLN) 260
+1 Swamp (ELD) 258
+1 Marauding Blight-Priest (ZNR) 112
+3 Mythos of Illuna (IKO) 58
+1 Rowan, Scholar of Sparks (STX) 156
+2 Exquisite Blood (JMP) 231
+1 Ajani's Welcome (M19) 6
+1 Temple of Silence (M20) 256
+2 Incubation Druid (RNA) 131
+2 Leyline of Abundance (M20) 179
+2 Tangled Florahedron (ZNR) 211
+1 Nissa, Who Shakes the World (WAR) 169
+2 Thief of Sanity (GRN) 205
+2 Robber of the Rich (ELD) 138
+
+Sideboard
+1 Ajani's Welcome (M19) 6
+1 Bastion of Remembrance (IKO) 73
+1 Ill-Gotten Inheritance (RNA) 77
+1 Revenge of Ravens (ELD) 104
+1 Exquisite Blood (JMP) 231
+1 Sanctum of Stone Fangs (M21) 120
+1 Helm of the Host (DAR) 217
