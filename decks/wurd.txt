@@ -1,0 +1,40 @@
+Deck
+1 Justice Strike (GRN) 182
+1 Aether Gust (M20) 42
+1 Prismari Command (STX) 214
+1 Wrath of God (AKR) 46
+1 Portable Hole (AFR) 33
+2 Mystical Dispute (ELD) 58
+2 Anger of the Gods (AKR) 138
+2 Search for Azcanta (XLN) 74
+2 Relic of Progenitus (ALA) 218
+3 Shark Typhoon (IKO) 67
+3 Narset, Parter of Veils (WAR) 61
+4 Expressive Iteration (STX) 186
+4 Memory Lapse (STA) 16
+4 Lightning Helix (STA) 62
+1 Sacred Foundry (GRN) 254
+1 Castle Vantress (ELD) 242
+1 Island (AFR) 269
+1 Irrigated Farmland (AKR) 304
+1 Glacial Fortress (XLN) 255
+1 Mountain (AFR) 277
+1 Field of Ruin (THB) 242
+1 Castle Ardenvale (ELD) 238
+2 Clifftop Retreat (DAR) 239
+4 Hallowed Fountain (RNA) 251
+4 Raugrin Triome (IKO) 251
+4 Sulfur Falls (DAR) 247
+4 Steam Vents (GRN) 257
+3 Teferi, Hero of Dominaria (DAR) 207
+
+Sideboard
+2 Brazen Borrower (ELD) 39
+2 Commence the Endgame (WAR) 45
+1 Devout Decree (M20) 13
+1 Dovin's Veto (WAR) 193
+1 Portable Hole (AFR) 33
+1 Dovin's Veto (WAR) 193
+1 Wrath of God (AKR) 46
+1 Justice Strike (GRN) 182
+1 Shark Typhoon (IKO) 67
