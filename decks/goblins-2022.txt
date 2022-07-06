@@ -1,0 +1,23 @@
+3 Goblin Chieftain (JMP) 324
+4 Skirk Prospector (DAR) 144
+4 Wily Goblin (XLN) 174
+4 Muxus, Goblin Grandee (JMP) 24
+4 Conspicuous Snoop (M21) 139
+4 Goblin Matron (MH1) 129
+4 Krenko, Mob Boss (JMP) 339
+4 Goblin Warchief (DAR) 130
+2 Mind Stone (WTH) 153
+2 Herald's Horn (JMP) 469
+3 Shatterskull Smashing (ZNR) 161
+2 Den of the Bugbear (AFR) 254
+20 Mountain (SNC) 279
+
+2 Herald's Horn (JMP) 469
+1 Brash Taunter (M21) 133
+1 Siege-Gang Commander (DAR) 143
+1 Goblin Cratermaker (GRN) 103
+1 Legion Warboss (GRN) 109
+1 Relic Robber (ZNR) 153
+2 Goblin Trashmaster (ANB) 72
+2 Goblin Ringleader (M20) 143
+4 Abrade (VOW) 139
